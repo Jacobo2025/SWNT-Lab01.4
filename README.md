@@ -56,3 +56,4 @@ El componente se probó con datos simulados devueltos por `emissionsService`, ve
 
 
 ## Video de prueba 
+[text](<vid/Videocaptura de pantalla_20260812_230250.webm>)
